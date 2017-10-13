@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">permission</string>
+    <string name="input_url_image">Input Url Image</string>
+    <string name="download_image">Download Image</string>
+    <string name="demopicasso">DemoPicasso</string>
+    <string name="usl_mac_dinh">http://nld.vcmedia.vn/Images/Uploaded/Share/2011/04/17/sieu_mat_trang.jpg</string>
+</resources>
